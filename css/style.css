@@ -1,0 +1,26 @@
+#abc,h1,h2,h3,h4,h5,span, .sunflower-bold {
+    font-family: "Sunflower", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  body{
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+/*배너영역*/
+.banner{
+    background-image:url(../images/card-banner.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+/* contact.html Contact 섹션 */
+.contact-bg{
+  background-image:linear-gradient(to top,rgba(0,0,0,0.5),rgba(0,0,0,0.2)), url("../images/contact-bg.jpg");
+  background-size:cover;
+  background-attachment: fixed;
+  background-position:center;
+
+  
+}
